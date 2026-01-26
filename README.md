@@ -7,9 +7,7 @@
 <p align="center">
   I build complete digital products — from idea and visual identity to a finished, working website.
 </p>
-
---
-
+---
 ## 🚀 About Me
 
 - Middle Digital Media Specialist with a strong focus on **frontend development and brand design**

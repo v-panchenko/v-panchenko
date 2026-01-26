@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vladislav👋</h1>
+<h1 align="center">Hi, I'm Vladislav Panchenko 👋</h1>
 
 <p align="center">
   <strong>Middle Digital Media Specialist · Frontend Developer · Brand & Graphic Designer</strong>
@@ -110,8 +110,8 @@ Open to freelance and commercial projects.
   <a href="https://www.behance.net/vladislav_panchenko">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/vladislav-panchenko">
-    <img src="https://www.linkedin.com/in/vladislav-panchenko-b30424395/?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/vladislav-panchenko-b30424395">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 

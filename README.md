@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vladislav Panchenko 👋</h1>
+<h1 align="center">Hi, I'm Vladislav👋</h1>
 
 <p align="center">
   <strong>Middle Digital Media Specialist · Frontend Developer · Brand & Graphic Designer</strong>

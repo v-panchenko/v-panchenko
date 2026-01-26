@@ -62,32 +62,6 @@
 
 ---
 
-## 📌 Featured Project
-
-### **Nəfəs Cafe**
-**First large commercial project — full cycle**
-
-- Brand concept and naming  
-- Visual identity and menu design  
-- Mockups and visual materials  
-- Responsive and interactive website  
-- Full frontend development from scratch  
-
-> A complete commercial case: idea → design → development → final result.
-
----
-
-## 📂 Other Work
-
-I also have several training and practice websites that demonstrate:
-- Responsive layouts  
-- UI interactions  
-- Clean HTML/CSS structure  
-
-These projects reflect my technical growth and learning process.
-
----
-
 ## 🧩 My Workflow
 
 Idea → Brand concept → Design → Frontend → Final product

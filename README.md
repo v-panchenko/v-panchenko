@@ -39,7 +39,7 @@
 
 ### 💻 Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,git,github&theme=dark" />
 </p>
 
 ### 🎨 Design
@@ -49,7 +49,7 @@
 
 ### 🛠 Tools & Software
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,unity,blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,unity,blender&theme=dark" />
 </p>
 
 ---

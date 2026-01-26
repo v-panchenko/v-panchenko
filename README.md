@@ -8,7 +8,7 @@
   I build complete digital products — from idea and visual identity to a finished, working website.
 </p>
 
----
+--
 
 ## 🚀 About Me
 

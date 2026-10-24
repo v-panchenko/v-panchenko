@@ -1,22 +1,27 @@
-<h1 align="center">Hi, I'm Vladislav 👋</h1>
+<h1 align="center">Vladislav Panchenko</h1>
 
 <p align="center">
-  <strong>Product Engineer · Frontend Developer · UI/UX Designer</strong>
+  <strong>Product Engineering · Frontend Development · UI/UX Design</strong>
 </p>
 
 <p align="center">
-  Design-minded developer building web applications and exploring AI-powered products.
+  Designing and developing digital products with a focus on usability, functionality, and clean interfaces.
 </p>
 
 ---
 
-### About Me
+### About
 
-- Working with React, JavaScript, and Figma
-- Learning backend development with Node.js, Express, and PostgreSQL
-- Building **AI Finance Hub** and **Noire**
+I'm focused on frontend development and product design, with a growing interest in backend engineering and AI-powered applications.
 
-### Tech Stack
+Currently working with React, JavaScript, Figma, Node.js, Express, and PostgreSQL through hands-on projects.
+
+### Projects
+
+- **AI Finance Hub** — personal finance application in development.
+- **Noire** — fragrance storefront concept focused on design and web development.
+
+### Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,postgres,figma,git,github&theme=dark" />
@@ -26,8 +31,3 @@
 
 [Telegram](https://t.me/vladislav_pan) · [Behance](https://www.behance.net/vladislav_panchenko) · [LinkedIn](https://www.linkedin.com/in/vladislav-panchenko-b30424395)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=V-panchenko&show_icons=true&theme=dark&hide_title=true" />
-</p>

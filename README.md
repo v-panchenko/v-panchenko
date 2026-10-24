@@ -1,10 +1,8 @@
 # Vladislav Panchenko
-
-<p align="center">
+<p>
   <strong>Product Engineering · Frontend Development · UI/UX Design</strong>
 </p>
-
-<p align="center">
+<p>
   Designing and building digital products from interface concepts to functional applications.
 </p>
 

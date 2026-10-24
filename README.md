@@ -1,54 +1,69 @@
-<h1 align="center">Vladislav Panchenko</h1>
+# Vladislav Panchenko
 
 <p align="center">
-  <strong>Product Engineer · Frontend Developer · UI/UX Designer</strong>
+  <strong>Product Engineering · Frontend Development · UI/UX Design</strong>
 </p>
 
 <p align="center">
-  Designing and building digital products across design, frontend, backend, and AI.
+  Designing and building digital products from interface concepts to functional applications.
 </p>
 
 ---
 
-### About Me
+## About
 
-I'm focused on building digital products, combining UI/UX design with web development and backend engineering.
+I focus on product engineering, combining UI/UX design, frontend development, backend systems, and database architecture.
 
-- Design interfaces, prototypes, and visual systems in Figma.
-- Build responsive web interfaces and interactive components with React, JavaScript, HTML, and CSS.
-- Develop server-side functionality with Node.js and Express.
-- Design relational databases and work with PostgreSQL, SQL, and database constraints.
-- Work with REST APIs, forms, validation, and error handling.
-- Explore AI-powered features and automation through personal projects.
+- **Product Design:** UI/UX, wireframes, prototypes, and design systems in Figma.
+- **Frontend:** React, JavaScript, HTML, CSS, and Vite.
+- **Backend:** Node.js, Express.js, and REST API development.
+- **Databases:** PostgreSQL, SQL, relational data modeling, constraints, triggers, and transaction integrity.
+- **Tools:** Git, GitHub, and VS Code.
 
-### Projects
+I develop my skills through practical projects, focusing on maintainable code, reliable data handling, and clear user experiences.
 
-- **AI Finance Hub** — a personal finance application in development, focused on expense tracking, financial data management, and future AI-powered automation.
-- **Noire** — a niche fragrance storefront concept combining visual design, product presentation, and web development.
+## Projects
 
-### Tech Stack
+### AI Finance Hub
+A personal finance application in development, designed around expense tracking, multi-currency accounts, and automated financial data processing.
+
+**Focus:** PostgreSQL database architecture, transaction integrity, backend security, and planned AI-powered expense automation.
+
+### Noire
+A niche fragrance storefront concept focused on visual identity, product presentation, and user experience.
+
+**Focus:** UI/UX design, responsive interfaces, React, and frontend development.
+
+## Tech Stack
 
 **Frontend**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="HTML, CSS, JavaScript, React, Vite" />
 </p>
 
-**Backend & Database**
+**Backend & Databases**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" alt="Node.js, Express.js, PostgreSQL" />
 </p>
 
 **Design**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Figma, Photoshop, Adobe Illustrator" />
 </p>
 
-**Tools**
+**Development Tools**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
 </p>
 
-### Contact
+## Connect
 
-[Telegram](https://t.me/vladislav_pan) · [Behance](https://www.behance.net/vladislav_panchenko) · [LinkedIn](https://www.linkedin.com/in/vladislav-panchenko-b30424395)
-
+<p>
+  <a href="https://www.behance.net/vladislav_panchenko">Behance</a> ·
+  <a href="https://www.linkedin.com/in/vladislav-panchenko-b30424395">LinkedIn</a> ·
+  <a href="https://t.me/vladislav_pan">Telegram</a>
+</p>

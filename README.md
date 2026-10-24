@@ -1,30 +1,51 @@
 <h1 align="center">Vladislav Panchenko</h1>
 
 <p align="center">
-  <strong>Product Engineering · Frontend Development · UI/UX Design</strong>
+  <strong>Product Engineer · Frontend Developer · UI/UX Designer</strong>
 </p>
 
 <p align="center">
-  Designing and developing digital products with a focus on usability, functionality, and clean interfaces.
+  Designing and building digital products across design, frontend, backend, and AI.
 </p>
 
 ---
 
-### About
+### About Me
 
-I'm focused on frontend development and product design, with a growing interest in backend engineering and AI-powered applications.
+I'm focused on building digital products, combining UI/UX design with web development and backend engineering.
 
-Currently working with React, JavaScript, Figma, Node.js, Express, and PostgreSQL through hands-on projects.
+- Design interfaces, prototypes, and visual systems in Figma.
+- Build responsive web interfaces and interactive components with React, JavaScript, HTML, and CSS.
+- Develop server-side functionality with Node.js and Express.
+- Design relational databases and work with PostgreSQL, SQL, and database constraints.
+- Work with REST APIs, forms, validation, and error handling.
+- Explore AI-powered features and automation through personal projects.
 
 ### Projects
 
-- **AI Finance Hub** — personal finance application in development.
-- **Noire** — fragrance storefront concept focused on design and web development.
+- **AI Finance Hub** — a personal finance application in development, focused on expense tracking, financial data management, and future AI-powered automation.
+- **Noire** — a niche fragrance storefront concept combining visual design, product presentation, and web development.
 
-### Technologies
+### Tech Stack
 
+**Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,postgres,figma,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" />
+</p>
+
+**Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" />
+</p>
+
+**Design**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 ### Contact
